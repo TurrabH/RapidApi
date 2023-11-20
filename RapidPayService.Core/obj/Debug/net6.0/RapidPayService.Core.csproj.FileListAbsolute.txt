@@ -1,0 +1,11 @@
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\obj\Debug\net6.0\RapidPayService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\obj\Debug\net6.0\RapidPayService.Core.AssemblyInfoInputs.cache
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\obj\Debug\net6.0\RapidPayService.Core.AssemblyInfo.cs
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\obj\Debug\net6.0\RapidPayService.Core.csproj.CoreCompileInputs.cache
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\bin\Debug\net6.0\RapidPayService.Core.deps.json
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\bin\Debug\net6.0\RapidPayService.Core.dll
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\bin\Debug\net6.0\RapidPayService.Core.pdb
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\obj\Debug\net6.0\RapidPayService.Core.dll
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\obj\Debug\net6.0\refint\RapidPayService.Core.dll
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\obj\Debug\net6.0\RapidPayService.Core.pdb
+C:\Users\win10_pro\Downloads\RapidPayService\RapidPayService.Core\obj\Debug\net6.0\ref\RapidPayService.Core.dll

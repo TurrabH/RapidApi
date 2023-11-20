@@ -1,0 +1,11 @@
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\bin\Debug\net6.0\Identity.deps.json
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\bin\Debug\net6.0\Identity.dll
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\bin\Debug\net6.0\Identity.pdb
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\obj\Debug\net6.0\Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\obj\Debug\net6.0\Identity.AssemblyInfoInputs.cache
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\obj\Debug\net6.0\Identity.AssemblyInfo.cs
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\obj\Debug\net6.0\Identity.csproj.CoreCompileInputs.cache
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\obj\Debug\net6.0\Identity.dll
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\obj\Debug\net6.0\refint\Identity.dll
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\obj\Debug\net6.0\Identity.pdb
+C:\Users\win10_pro\Downloads\RapidPayService\Identity\obj\Debug\net6.0\ref\Identity.dll

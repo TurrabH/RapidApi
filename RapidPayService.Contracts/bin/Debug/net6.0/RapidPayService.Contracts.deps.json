@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RapidPayService.Contracts/1.0.0": {
+        "dependencies": {
+          "RapidPayService.Core": "1.0.0"
+        },
+        "runtime": {
+          "RapidPayService.Contracts.dll": {}
+        }
+      },
+      "RapidPayService.Core/1.0.0": {
+        "runtime": {
+          "RapidPayService.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RapidPayService.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RapidPayService.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
